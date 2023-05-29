@@ -1,13 +1,25 @@
 {
   "files": {
     "main.css": "/Portfolio-App/static/css/main.1e479c0a.css",
-    "main.js": "/Portfolio-App/static/js/main.4de4e95c.js",
+    "main.js": "/Portfolio-App/static/js/main.d611b128.js",
+    "static/media/HackerRank certificate (1).png": "/Portfolio-App/static/media/HackerRank certificate (1).1d95b8bcb99ada3fcf89.png",
+    "static/media/Tushar Verma.png": "/Portfolio-App/static/media/Tushar Verma.953bdfe82a63ac58d8e8.png",
+    "static/media/Photo.png": "/Portfolio-App/static/media/Photo.f7454c76ac1981e6d567.png",
+    "static/media/Internship certificate.png": "/Portfolio-App/static/media/Internship certificate.088d9acc7aa2738cefa8.png",
+    "static/media/Walmart.png": "/Portfolio-App/static/media/Walmart.f7e16214c90e87be1798.png",
+    "static/media/Hackathon.png": "/Portfolio-App/static/media/Hackathon.a1e1169c35cf15098af7.png",
+    "static/media/Instagram.png": "/Portfolio-App/static/media/Instagram.69cbab2d6f1e9afe7b2b.png",
+    "static/media/Codejam.png": "/Portfolio-App/static/media/Codejam.6103e9e53f4043d89ac3.png",
+    "static/media/twitter.png": "/Portfolio-App/static/media/twitter.edc48b792546a61c7e2a.png",
+    "static/media/github.png": "/Portfolio-App/static/media/github.f35979823eee4b5d3c0a.png",
+    "static/media/Linkedin.png": "/Portfolio-App/static/media/Linkedin.3b4ecc3f7fa88e4330b7.png",
+    "static/media/Leetcode.png": "/Portfolio-App/static/media/Leetcode.ccc4f1e83b8b20dcc78d.png",
     "index.html": "/Portfolio-App/index.html",
     "main.1e479c0a.css.map": "/Portfolio-App/static/css/main.1e479c0a.css.map",
-    "main.4de4e95c.js.map": "/Portfolio-App/static/js/main.4de4e95c.js.map"
+    "main.d611b128.js.map": "/Portfolio-App/static/js/main.d611b128.js.map"
   },
   "entrypoints": [
     "static/css/main.1e479c0a.css",
-    "static/js/main.4de4e95c.js"
+    "static/js/main.d611b128.js"
   ]
 }
